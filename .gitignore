@@ -42,3 +42,4 @@ Image Classifier/.DS_Store
 Lab*/.DS_Store
 NLP/.DS_Store
 ≈
+*.safetensors
