@@ -1,0 +1,44 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights / outputs (if added later)
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# VSCode or PyCharm project settings (optional, if you use them)
+.vscode/
+.idea/
+
+# PDF lab reports (optional — remove this line if you want to keep them in Git)
+*.pdf
+
+# Data files (optional — remove these if needed)
+*.csv
+*.tsv
+
+# Environment files
+.env
+*.egg-info/
+*.log
+
+# Others
+structure.txt
+requirements.txt  # Only if you want to regenerate it each time, else keep it
+
+# Ignore AI Projects that aren’t ready (optional — remove if you want to include all)
+AI Projects/.DS_Store
+Image Classifier/.DS_Store
+Lab*/.DS_Store
+NLP/.DS_Store
+≈
